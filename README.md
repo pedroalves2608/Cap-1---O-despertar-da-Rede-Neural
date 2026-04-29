@@ -41,6 +41,12 @@ Todo o passo a passo da solução está documentado no notebook Jupyter:
 
 ---
 
+## Vídeo Demonstrativo
+
+🎥 https://youtu.be/qqtAVACLEoE
+
+
+
 ## Tecnologias Utilizadas
 
 - Python 3
